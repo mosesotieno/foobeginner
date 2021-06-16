@@ -6,7 +6,7 @@ second edition of [R Packages](https://r-pkgs.org). It is not meant to
 actually be useful. If you want a package for factor handling, please
 see [forcats](https://forcats.tidyverse.org).A small tweak made**
 
-# foofactors
+# foobeginner
 
 <!-- badges: start -->
 <!-- badges: end -->
